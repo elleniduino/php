@@ -1,7 +1,8 @@
 <?php
 
+<<<<<<< HEAD
 	echo "Ola Mundo!456";
 
-	echo "Vamos estudar";
+	echo "Vamos estudar Ellen";
 
 ?>
